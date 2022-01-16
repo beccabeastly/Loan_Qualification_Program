@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualification Program
 
 This program is a fast and easy way to help match borrowers with a list of banks that will qualify them. There are several functions that will calculate the requirements to help borrowers find the best bank/lender for their intended purpose.
 
